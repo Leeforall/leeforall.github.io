@@ -167,8 +167,8 @@ article {
 .content h1{padding:.5em 0;}
 
 .content img {
-  max-width: 600px;
-  display: block;
+  width: auto;
+  max-width: 100%;
   margin: 4px auto;
   -webkit-box-shadow: #999 1px 1px 4px;
   -moz-box-shadow: #999 1px 1px 4px;
