@@ -127,7 +127,6 @@ background: #83BF73;
 }
 
 .sidebar {
-    float: left; 
 	position: fixed;
 	top: 0px;
 	padding-top: 5%;
