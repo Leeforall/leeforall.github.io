@@ -1,3 +1,10 @@
-_config.yml
 _site/*
-*Thumbs.db
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
